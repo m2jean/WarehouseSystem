@@ -8,12 +8,12 @@ The application is designed to digitalize the warehouse management, which involv
 ## Screenshots
 The categoty management view with a tree structure category.
 
-![The categoty management view](docs/screenshots/category.PNG)
+![The categoty management view](screenshots/category.PNG)
 
 Creating a new import form.
 
-![Creating a new import form](docs/screenshots/new%20import%20form.PNG)
+![Creating a new import form](screenshots/new%20import%20form.PNG)
 
 The list of all submitted forms with overview and quick actions buttons.
 
-![The list of all submitted forms](docs/screenshots/forms%20list.PNG)
+![The list of all submitted forms](screenshots/forms%20list.PNG)
